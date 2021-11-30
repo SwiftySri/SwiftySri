@@ -1,6 +1,6 @@
 👋 Hi, I’m @SwiftySri
 - 👀 I’m interested in Mobile application development
-- 🌱 I’m continue learning 
+- 🌱 I continue learning 
 - 💞️ I’m looking to collaborate on anything on Mobile space
 
 <!---
